@@ -2,7 +2,7 @@
     @author: Alina Khairullina, Nataliia Pidhorodetska
     @version: 2020.05.24
  */
-
+//
 package list.implementation
 
 import list.traits.IntList

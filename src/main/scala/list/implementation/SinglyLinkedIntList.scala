@@ -27,7 +27,7 @@ object SinglyLinkedIntList {
     case _ => Cons(xs.head, SinglyLinkedIntList(xs.tail: _*))
   }
 }
-
+//
 abstract class SinglyLinkedIntList extends IntList {
 
   override def prefix(other: IntList): IntList = other match {
